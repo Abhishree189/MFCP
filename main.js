@@ -1,0 +1,12 @@
+var fn = "Abhishree" ;
+console.log(fn);
+var sn = "Agrawal" ;
+console.log(sn);
+var a = 100;
+console.log(a);
+var b = 100;
+console.log(b);
+var add = a + b;
+console.log(add);
+var result = 200;
+console.log(result);
